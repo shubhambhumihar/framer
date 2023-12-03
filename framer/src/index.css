@@ -47,7 +47,9 @@ h1 {
     rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
     rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
-
+.chakra-accordion__button css-uttm9k {
+  padding: 2rem !important;
+}
 button {
   border-radius: 8px;
   border: 1px solid transparent;

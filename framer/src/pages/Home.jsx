@@ -3,6 +3,10 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Banner from "../components/Banner";
 import Explore from "../components/Explore";
+import Faq from "../components/Faq";
+import Pricing from "../components/Pricing";
+import Reveiws from "../components/Reveiws";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -10,6 +14,10 @@ const Home = () => {
       <Navbar />
       <Banner />
       <Explore />
+      <Faq />
+      <Pricing />
+      <Reveiws />
+      <Footer />
     </div>
   );
 };
